@@ -1,0 +1,1 @@
+An extension built for Visual Studio Code which uses OpenAI Codex API to autocomplete code snippets. Inspired by Github COpilot.
